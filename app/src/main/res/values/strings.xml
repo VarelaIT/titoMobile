@@ -2,4 +2,6 @@
     <string name="app_name">TitoMobile</string>
     <string name="subTitle">Puertas y Ventanas</string>
     <string name="title">TITO</string>
+    <string name="baseLabel">Base</string>
+    <string name="btnCalcular">Calcular</string>
 </resources>

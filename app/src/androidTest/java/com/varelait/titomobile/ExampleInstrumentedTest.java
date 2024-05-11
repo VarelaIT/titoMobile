@@ -1,4 +1,4 @@
-package com.varelait.titomovile;
+package com.varelait.titomobile;
 
 import android.content.Context;
 
